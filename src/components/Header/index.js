@@ -1,10 +1,10 @@
 import React from "react";
 import "./style.css";
 
-function Navbar() {
+function Header() {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-success">
-            <a className="navbar-brand" href="#">Stephen Miller</a>
+            <a className="navbar-brand" href="index.html">Stephen Miller</a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
                 aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
@@ -20,4 +20,4 @@ function Navbar() {
     );
 }
 
-export default Navbar;
+export default Header;
