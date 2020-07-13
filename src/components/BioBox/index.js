@@ -28,7 +28,7 @@ function BioBox() {
                                 <h5 id="contact">Contact information</h5>
                                 <h6 className="text-center"> <a href="mailto:samiller57@gmail.com">samiller57@gmail.com</a> ||
                                     <a href="tel:2672352317"> 267-235-2317</a> <br></br><a
-                                        href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:fdfcb4da-a6e8-4ea8-b5d1-8b46533d1649">Resume   </a> || <a href="https://github.com/stmiller57">
+                                        href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:c67cc2c6-c8b6-49d5-ae19-30a0e8ad470a">Resume   </a> || <a href="https://github.com/stmiller57">
                                         <img src="./assets/GitHub.png" alt="GitHub Logo" className="img-responsive rounded-circle"
                                             width="4%" /></a> || <a href="https://www.linkedin.com/in/stephenmiller57/">
                                         <img src="./assets/LI-In-Bug.png" alt="LinkedIn Logo" className="img-responsive" width="4%" /></a></h6>
