@@ -1,0 +1,9 @@
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: rgb(181, 187, 192);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
