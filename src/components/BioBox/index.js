@@ -26,10 +26,9 @@ function BioBox() {
                                 New
                             York Mets and Boston Celtics. Ask me if you want the whole story.</p>
                                 <h5 id="contact">Contact information</h5>
-                                <h6 className="text-center"> <a href="mailto:samiller57@gmail.com">samiller57@gmail.com</a>
-                            ||
-                            <a href="tel:2672352317">267-235-2317</a> || <a
-                                        href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:fdfcb4da-a6e8-4ea8-b5d1-8b46533d1649">Resume</a>
+                                <h6 className="text-center"> <a href="mailto:samiller57@gmail.com">samiller57@gmail.com</a> ||
+                                    <a href="tel:2672352317"> 267-235-2317</a> <br></br><a
+                                        href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:fdfcb4da-a6e8-4ea8-b5d1-8b46533d1649">Resume </a>
                             || <a href="https://github.com/stmiller57">
                                         <img src="./assets/GitHub.png" alt="GitHub Logo" className="img-responsive rounded-circle"
                                             width="4%" /></a> || <a href="https://www.linkedin.com/in/stephenmiller57/">
