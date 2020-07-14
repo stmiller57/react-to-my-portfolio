@@ -5,12 +5,14 @@ import BioBox from './components/BioBox';
 import ProjectCard from "./components/ProjectCard";
 import Wrapper from "./components/Wrapper";
 import projects from "./components/projects.json";
+import CodingTitle from "./components/CodingTitle";
 
 function App() {
   return (
     <div className="App">
       <Header />
       <BioBox />
+      <CodingTitle />
       <Wrapper>
         <ProjectCard
           image={projects[0].image}
