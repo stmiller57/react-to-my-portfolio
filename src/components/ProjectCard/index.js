@@ -10,11 +10,13 @@ function ProjectCard(props) {
                 <h5 className="card-title">{props.title}</h5>
                 <p className="card-text">{props.body}</p>
                 <p className="card-text">Technologies used: {props.technology}</p>
-                <a className="text-success"
-                    href={props.project}>Deployed project</a>
                 <br></br>
-                <a className="text-success"
-                    href={props.github}>GitHub repo</a>
+                <div className="text-center">
+                    <a className="btn btn-success" id="project"
+                        href={props.link} target="_blank">Project</a>
+                    <a className="btn btn-success" id="repo"
+                        href={props.github} target="_blank">Repo</a>
+                </div>
             </div>
         </div>
     );
