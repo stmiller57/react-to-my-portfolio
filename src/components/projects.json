@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "image": "assets/g-and-a header.png",
+        "title": "Gluttons and Alcoholics",
+        "body": "",
+        "technology": "UIkit CSS framework, JavaScript, jQuery, Edamam Recipe API, TheCocktailDB API",
+        "link": "https://brianlevin.github.io/gluttons-and-alcoholics/",
+        "github": "https://github.com/BrianLevin/gluttons-and-alcoholics"
+    },
+    {
+        "id": 2,
+        "image": "assets/HelpingHand2.gif",
+        "title": "HelpingHands",
+        "body": "",
+        "technology": "Node.JS, Express, Handlebars, Sequelize and Bootstrap",
+        "link": "https://helping-hands-project-2.herokuapp.com/",
+        "github": "https://github.com/BrianLevin/gluttons-and-alcoholics"
+    }
+]
