@@ -25,13 +25,19 @@ function BioBox() {
                                 with my wife and two boys. I somehow ended up a fan of the Philadelphia Eagles,
                                 New
                             York Mets and Boston Celtics. Ask me if you want the whole story.</p>
-                                <h5 id="contact">Contact information</h5>
-                                <h6 className="text-center"> <a href="mailto:samiller57@gmail.com">samiller57@gmail.com</a> ||
-                                    <a href="tel:2672352317"> 267-235-2317</a> <br></br><a
-                                        href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:c67cc2c6-c8b6-49d5-ae19-30a0e8ad470a">Resume   </a> || <a href="https://github.com/stmiller57">
-                                        <img src="./assets/GitHub.png" alt="GitHub Logo" className="img-responsive rounded-circle"
-                                            width="4%" /></a> || <a href="https://www.linkedin.com/in/stephenmiller57/">
-                                        <img src="./assets/LI-In-Bug.png" alt="LinkedIn Logo" className="img-responsive" width="4%" /></a></h6>
+                                <h5 id="contact">Let's Connect!</h5>
+                                <h6 className="text-center">
+                                    <br>
+                                    </br>
+                                    <a href="mailto:samiller57@gmail.com"><img src="./assets/Gmail.svg" alt="Phone" className="img-responsive"
+                                        width="5%" /></a> ||
+                                    <a href="tel:2672352317"><img src="./assets/Phone.svg" alt="Phone" className="img-responsive"
+                                        width="5%" /></a> ||
+                                    <a href="https://github.com/stmiller57" target="_blank">
+                                        <img src="./assets/GitHub.svg" alt="GitHub Logo" className="img-responsive"
+                                            width="5%" /></a> ||
+                                            <a href="https://www.linkedin.com/in/stephenmiller57/" target="_blank">
+                                        <img src="./assets/LinkedIn.svg" alt="LinkedIn Logo" className="img-responsive" width="5%" /></a></h6>
                             </div>
                         </div>
                     </div>
