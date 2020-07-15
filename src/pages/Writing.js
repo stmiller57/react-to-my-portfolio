@@ -1,37 +1,30 @@
 import React from 'react';
-import ProjectCard from "../components/ProjectCard";
+import WritingTitle from "../components/WritingTitle";
+import WritingCard from "../components/WritingCard";
 import Wrapper from "../components/Wrapper";
-import projects from "../components/projects.json";
-
+import writing from "../components/writing.json";
 function Writing() {
     return (
         <div>
+            <WritingTitle />
             <Wrapper>
-                <ProjectCard
-                    image={projects[0].image}
-                    title={projects[0].title}
-                    body={projects[0].body}
-                    technology={projects[0].technology}
-                    link={projects[0].link}
-                    github={projects[0].github}
+                <WritingCard
+                    image={writing[0].image}
+                    title={writing[0].title}
+                    body={writing[0].body}
+                    link={writing[0].link}
                 />
-                <ProjectCard
-                    image={projects[1].image}
-                    title={projects[1].title}
-                    body={projects[1].body}
-                    technology={projects[1].technology}
-                    link={projects[1].link}
-                    github={projects[1].github}
+                <WritingCard
+                    image={writing[1].image}
+                    title={writing[1].title}
+                    body={writing[1].body}
+                    link={writing[1].link}
                 />
-            </Wrapper>
-            <Wrapper>
-                <ProjectCard
-                    image={projects[2].image}
-                    title={projects[2].title}
-                    body={projects[2].body}
-                    technology={projects[2].technology}
-                    link={projects[2].link}
-                    github={projects[2].github}
+                <WritingCard
+                    image={writing[2].image}
+                    title={writing[2].title}
+                    body={writing[2].body}
+                    link={writing[2].link}
                 />
             </Wrapper>
         </div>
