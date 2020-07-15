@@ -24,7 +24,7 @@ function Header() {
                         }>Selected writing</Link>
                 </div>
             </div>
-        </nav>
+        </nav >
     );
 }
 
