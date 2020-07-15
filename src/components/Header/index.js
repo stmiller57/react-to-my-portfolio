@@ -22,7 +22,16 @@ function Header() {
             <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div className="navbar-nav">
                     <a className="nav-item nav-link" href="#coding-portfolio">Coding portfolio</a>
-                    <a className="nav-item nav-link" href="#recent-writing">Selected writing</a>
+                    <Link
+                        to="/writing"
+                        className={
+                            window.location.pathname === "/" ||
+                                window.location.pathname === "/writing"
+                                ? "nav-link active"
+                                : "nav-link"
+                        }
+                    >
+                        Selected writing                </Link>
                 </div>
             </div>
         </nav>
