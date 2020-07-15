@@ -1,16 +1,15 @@
 #bio-card {
     border-width: 1px;
     max-width: 1200px;
+    margin-top: 10px;
 }
 
 h5 {
     text-align: center;
     font-weight: bold;
+    padding-top:10px;
     border-top-style: solid;
-}
-
-a {
-    color: rgb(15, 190, 15);
+    border-radius: 8px; ;
 }
 
 .col-sm-4 {
@@ -21,4 +20,8 @@ a {
     text-align: center;
     font-weight: bold;
     border-top-style: solid;
+}
+
+a {
+    padding-left: 25px;
 }

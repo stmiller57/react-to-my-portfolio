@@ -5,7 +5,7 @@ function BioBox() {
     return (
         <div className="container">
             <div className="row">
-                <div className="card mb-3" id="bio-card">
+                <div className="card text-white bg-dark mb-3 border-success" id="bio-card">
                     <div className="row no-gutters">
                         <div className="col-sm-4">
                             <img className="card-img border border-dark rounded-circle" src="./assets/Profile.jpeg"
@@ -30,13 +30,15 @@ function BioBox() {
                                     <br>
                                     </br>
                                     <a href="mailto:samiller57@gmail.com"><img src="./assets/Gmail.svg" alt="Phone" className="img-responsive"
-                                        width="5%" /></a> ||
+                                        width="5%" /></a>
                                     <a href="tel:2672352317"><img src="./assets/Phone.svg" alt="Phone" className="img-responsive"
-                                        width="5%" /></a> ||
+                                        width="5%" /></a>
+                                    <a href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:c67cc2c6-c8b6-49d5-ae19-30a0e8ad470a" target="_blank"><img src="./assets/Resume.svg" alt="Resume" className="img-responsive"
+                                        width="5%" /></a>
                                     <a href="https://github.com/stmiller57" target="_blank">
                                         <img src="./assets/GitHub.svg" alt="GitHub Logo" className="img-responsive"
-                                            width="5%" /></a> ||
-                                            <a href="https://www.linkedin.com/in/stephenmiller57/" target="_blank">
+                                            width="5%" /></a>
+                                    <a href="https://www.linkedin.com/in/stephenmiller57/" target="_blank">
                                         <img src="./assets/LinkedIn.svg" alt="LinkedIn Logo" className="img-responsive" width="5%" /></a></h6>
                             </div>
                         </div>

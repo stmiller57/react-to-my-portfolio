@@ -4,7 +4,7 @@ import "./style.css";
 function ProjectCard(props) {
     console.log(props);
     return (
-        <div className="card border-success">
+        <div className="card text-white bg-dark border-success">
             <img alt={props.title} src={props.image} className="img-responsive" width="100%" />
             <div className="card-body">
                 <h5 className="card-title">{props.title}</h5>
