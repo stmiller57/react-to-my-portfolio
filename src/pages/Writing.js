@@ -27,6 +27,26 @@ function Writing() {
                     link={writing[2].link}
                 />
             </Wrapper>
+            <Wrapper>
+                <WritingCard
+                    image={writing[3].image}
+                    title={writing[3].title}
+                    body={writing[3].body}
+                    link={writing[3].link}
+                />
+                <WritingCard
+                    image={writing[4].image}
+                    title={writing[4].title}
+                    body={writing[4].body}
+                    link={writing[4].link}
+                />
+                <WritingCard
+                    image={writing[5].image}
+                    title={writing[5].title}
+                    body={writing[5].body}
+                    link={writing[5].link}
+                />
+            </Wrapper>
         </div>
     );
 }
