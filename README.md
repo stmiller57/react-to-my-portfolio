@@ -1,9 +1,48 @@
 # react-to-my-portfolio
-My personal portfolio, built with React. 
+This is my personal portfolio, built with React. 
 
+## Table of Contents
+1. [Description](#description)
+2. [Installation](#installation)
+3. [Contributing](#contributing)
+4. [License](#license)
+5. [Information](#information)
 
-# Unit 20 React Homework: React Portfolio
+![](public/assets/Portfolio.gif)
 
-Now that you've worked with React and have multiple projects to share, you'll be updating your portfolio and other materials to build toward being employer competitive. Creating a portfolio using React will help set you apart from other developers whose portfolios do not use some of the latest technologies.
+## Description
+As an aspiring web developer, I need a place to display my projects. This portfolio houses some of my best work. 
+I spent 20 years as a journalist before deciding to switch careers, but I continue to freelance. My portfolio also houses some of my recent and best writing. 
 
-If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but is still *critical* on your journey as a developer.
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
+
+You can also find the deployed application on Heroku:
+
+https://whispering-ocean-52911.herokuapp.com/
+
+## Installation
+
+Run `npm install` to include all necessary dependencies. 
+
+## Contributing
+
+Suggestions for improvements to the project are welcome. 
+
+### License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Information
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
