@@ -26,7 +26,7 @@ You will also see any lint errors in the console.
 
 You can also find the deployed application on Heroku:
 
-https://whispering-ocean-52911.herokuapp.com/
+https://cryptic-reef-69954.herokuapp.com/
 
 ## Installation
 

@@ -7,8 +7,8 @@ function Header() {
         <nav className="navbar navbar-expand-lg navbar-dark bg-success">
             <Link to="/" className={window.location.pathname === "/"
                 ? "nav-link active" : "nav-link"
-            }> <a href="mailto:samiller57@gmail.com"><img src="./assets/logo.png" alt="Phone" className="img-responsive"
-                width="20%" /></a></Link>
+            }><img src="./assets/logo.png" alt="Stephen Miller" className="img-responsive"
+                width="20%" /></Link>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
                 aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
