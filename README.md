@@ -1,4 +1,4 @@
-# react-to-my-portfolio
+# React to My Portfolio
 This is my personal portfolio, built with React. 
 
 ## Table of Contents
