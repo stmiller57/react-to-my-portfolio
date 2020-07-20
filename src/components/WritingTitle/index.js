@@ -5,7 +5,7 @@ function WritingTitle() {
     return (
         <div className="container">
             <div id="Writing-portfolio" className="row">
-                <div className="col-sm text-white">
+                <div className="col-sm text-white text-center">
                     <h4>Selected writing</h4>
                 </div>
             </div>

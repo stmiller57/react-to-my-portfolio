@@ -27,6 +27,8 @@ function Portfolio() {
                     link={projects[1].link}
                     github={projects[1].github}
                 />
+            </Wrapper>
+            <Wrapper>
                 <ProjectCard
                     image={projects[2].image}
                     title={projects[2].title}
@@ -35,8 +37,6 @@ function Portfolio() {
                     link={projects[2].link}
                     github={projects[2].github}
                 />
-            </Wrapper>
-            <Wrapper>
                 <ProjectCard
                     image={projects[3].image}
                     title={projects[3].title}
@@ -45,6 +45,8 @@ function Portfolio() {
                     link={projects[3].link}
                     github={projects[3].github}
                 />
+            </Wrapper>
+            <Wrapper>
                 <ProjectCard
                     image={projects[4].image}
                     title={projects[4].title}
@@ -62,7 +64,7 @@ function Portfolio() {
                     github={projects[5].github}
                 />
             </Wrapper>
-        </div>
+        </div >
     );
 }
 
