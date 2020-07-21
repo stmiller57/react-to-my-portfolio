@@ -33,7 +33,7 @@ function BioBox() {
                                         width="5%" /></a>
                                     <a href="tel:2672352317"><img src="./assets/Phone.svg" alt="Phone" className="img-responsive"
                                         width="5%" /></a>
-                                    <a href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:335bbfd1-e24f-4e30-9a5e-153f8feb7430" target="_blank"><img src="./assets/Resume.svg" alt="Resume" className="img-responsive"
+                                    <a href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:41c59448-a10a-48b8-b370-a24dfb2ccda6" target="_blank"><img src="./assets/Resume.svg" alt="Resume" className="img-responsive"
                                         width="5%" /></a>
                                     <a href="https://github.com/stmiller57" target="_blank">
                                         <img src="./assets/GitHub.svg" alt="GitHub Logo" className="img-responsive"
