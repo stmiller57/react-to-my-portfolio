@@ -26,7 +26,7 @@ You will also see any lint errors in the console.
 
 You can also find the deployed application on Heroku:
 
-https://cryptic-reef-69954.herokuapp.com/
+https://stephen-miller-react-portfolio.herokuapp.com/
 
 ## Installation
 
