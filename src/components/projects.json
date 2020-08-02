@@ -36,20 +36,20 @@
     },
     {
         "id": 5,
+        "image": "assets/FitnessTracker.gif",
+        "title": "Workout Has noSQL",
+        "body": "Logging workouts allows users to track their progress over time. In this application, users can log both resistance and cardio workouts. Users can record the name, type, weight, sets, reps, and duration of strength exercises. They can also track the distance covered of cardio exercises.",
+        "technology": "Node, Express, MongoDB and Mongoose",
+        "link": "https://still-island-18467.herokuapp.com//",
+        "github": "https://github.com/stmiller57/workout-has-noSQL"
+    },
+    {
+        "id": 6,
         "image": "assets/NoteTaker.gif",
         "title": "Note These Words",
         "body": "For people with a lot on their minds, writing notes is an excellent way to keep track of their thoughts. This application gives users a way to take notes throughout the day in their web browser.",
         "technology": "Express, JSON",
         "link": "https://blooming-fjord-50965.herokuapp.com/",
         "github": "https://github.com/stmiller57/note-these-words"
-    },
-    {
-        "id": 6,
-        "image": "assets/passwordScreen.png",
-        "title": "Password Generator",
-        "body": "This is a basic password generator, where a user is asked to select a password length of 8-128 characters. She is then asked to decide if she wants lowercase, uppercase, numeric and special characters. Each answer helps determine the character set used to generate a random password.",
-        "technology": "HTML5, CSS3",
-        "link": "https://stmiller57.github.io/password-generator/",
-        "github": "https://github.com/stmiller57/password-generator"
     }
 ]
