@@ -11,7 +11,7 @@
     {
         "id": 2,
         "image": "assets/HelpingHand2.gif",
-        "title": "HelpingHands",
+        "title": "Helping Hands",
         "body": "This application, built by a four-person team, links prospective volunteers to organizations that need their help. Volunteers can sign up for access to the site, log in and look through opportunities. They can also claim opportunities that interest them.",
         "technology": "Node.JS, Express, Handlebars, Sequelize and Bootstrap",
         "link": "https://helping-hands-project-2.herokuapp.com/",
@@ -29,7 +29,7 @@
         "id": 4,
         "image": "assets/Weather dashboard.png",
         "title": "What's the Weather",
-        "body": "This is a simple weather dashboard to search for current weather conditions and a five-day forecast by city using several OpenWeather APIs. Fields include the current day's temperature, humidity, wind speed and UV index. Below those, a 5-day forecast appears that includes the temperature and humidity",
+        "body": "This is a simple weather dashboard to search for current weather conditions and a five-day forecast by city using several OpenWeather APIs. Fields include the current day's temperature, humidity, wind speed and UV index. Below those, a 5-day forecast appears that includes the temperature and humidity.",
         "technology": "Bootstrap, JavaScript and jQuery",
         "link": "https://stmiller57.github.io/whats-the-weather",
         "github": "https://github.com/stmiller57/whats-the-weather"

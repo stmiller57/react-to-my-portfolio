@@ -15,8 +15,8 @@ function BioBox() {
                             <div className="card-body">
                                 <h3 id="About" className="card-title text-center">About Me</h3>
                                 <p className="card-text">I'm a junior web developer pursuing
-                                full-stack
-                                certification from the Penn LPS coding bootcamp. I spent 20 years as a journalist,
+                                a full-stack
+                                certificate from the Penn LPS coding bootcamp. I spent 20 years as a journalist,
                                 covering everything from the Philadelphia Phillies to college basketball to high
                                 school
                             football.</p>
