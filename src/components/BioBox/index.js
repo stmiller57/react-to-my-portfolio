@@ -5,7 +5,7 @@ function BioBox() {
     return (
         <div className="container">
             <div className="row">
-                <div className="card text-white bg-dark mb-3 border-success" id="bio-card">
+                <div className="card text-white mb-3" id="bio-card">
                     <div className="row no-gutters">
                         <div className="col-sm-4">
                             <img className="card-img border border-dark rounded-circle" src="./assets/Profile.jpeg"

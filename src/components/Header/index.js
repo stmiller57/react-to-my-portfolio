@@ -4,7 +4,7 @@ import "./style.css";
 
 function Header() {
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark bg-success">
+        <nav className="navbar navbar-expand-lg navbar-dark" id="nav-background">
             <Link to="/" className={window.location.pathname === "/"
                 ? "nav-link active" : "nav-link"
             }><h1>Stephen Miller</h1></Link>

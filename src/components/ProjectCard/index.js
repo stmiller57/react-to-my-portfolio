@@ -4,7 +4,7 @@ import "./style.css";
 function ProjectCard(props) {
     console.log(props);
     return (
-        <div className="card text-white bg-dark border-success">
+        <div className="card text-white">
             <img alt={props.title} src={props.image} className="img-responsive" width="100%" />
             <div className="card-body">
                 <h5 className="card-title">{props.title}</h5>
@@ -12,9 +12,9 @@ function ProjectCard(props) {
                 <p className="card-text">Technologies used: {props.technology}</p>
                 <br></br>
                 <div className="text-center">
-                    <a className="btn btn-success" id="project"
+                    <a className="btn" id="project"
                         href={props.link} target="_blank">Project</a>
-                    <a className="btn btn-success" id="repo"
+                    <a className="btn" id="repo"
                         href={props.github} target="_blank">Repo</a>
                 </div>
             </div>
@@ -22,4 +22,4 @@ function ProjectCard(props) {
     );
 }
 
-export default ProjectCard;
+export default ProjectCard

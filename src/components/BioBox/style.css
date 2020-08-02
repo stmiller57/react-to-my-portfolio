@@ -1,6 +1,8 @@
 #bio-card {
     border-width: 1px;
     margin-top: 10px;
+    border-color: #005e66;
+    background-color:#002f33;
 }
 
 h5 {

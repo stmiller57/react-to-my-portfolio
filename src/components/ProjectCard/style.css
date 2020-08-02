@@ -1,5 +1,7 @@
-.btn btn-outline-success {
+.btn {
     text-align: center;
+    background-color: #005e66;
+    color: white;
 }
 
 #project {
@@ -8,4 +10,11 @@
 
 #repo {
     margin-left: 15px;
+}
+
+.card {
+    background-color: #00181a;
+    border-width: 1px;
+    margin-top: 10px;
+    border-color: #005e66;
 }
