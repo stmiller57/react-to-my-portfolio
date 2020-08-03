@@ -27,7 +27,7 @@
     },
     {
         "id": 4,
-        "image": "assets/Weather dashboard.png",
+        "image": "assets/Weather.gif",
         "title": "What's the Weather",
         "body": "This is a simple weather dashboard to search for current weather conditions and a five-day forecast by city using several OpenWeather APIs. Fields include the current day's temperature, humidity, wind speed and UV index. Below those, a 5-day forecast appears that includes the temperature and humidity.",
         "technology": "Bootstrap, JavaScript and jQuery",
