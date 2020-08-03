@@ -12,7 +12,7 @@ This is my personal portfolio, built with React.
 
 ## Description
 As an aspiring web developer, I need a place to display my projects. This portfolio houses some of my best work. 
-I spent 20 years as a journalist before deciding to switch careers, but I continue to freelance. My portfolio also houses some of my recent and best writing. 
+I spent 20 years as a journalist before deciding to switch careers, but I continue to freelance. My portfolio also houses some of my recent writing. 
 
 In the project directory, you can run:
 

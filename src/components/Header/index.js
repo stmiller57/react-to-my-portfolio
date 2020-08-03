@@ -7,7 +7,7 @@ function Header() {
         <nav className="navbar navbar-expand-lg navbar-dark" id="nav-background">
             <Link to="/" className={window.location.pathname === "/"
                 ? "nav-link active" : "nav-link"
-            }><h1>Stephen Miller</h1></Link>
+            }><h2>Stephen Miller</h2></Link>
             <button className="navbar-toggler ml-auto hidden-sm-up float-xs-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
                 aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
