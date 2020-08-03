@@ -30,16 +30,16 @@ function BioBox() {
                                     <br>
                                     </br>
                                     <a href="mailto:samiller57@gmail.com"><img src="./assets/Gmail.svg" alt="Phone" className="img-responsive"
-                                        width="5%" /></a>
+                                        width="8%" /></a>
                                     <a href="tel:2672352317"><img src="./assets/Phone.svg" alt="Phone" className="img-responsive"
-                                        width="5%" /></a>
+                                        width="8%" /></a>
                                     <a href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:c5b18185-ac11-4634-a61d-153ebf319e5c" target="_blank"><img src="./assets/Resume.svg" alt="Resume" className="img-responsive"
-                                        width="5%" /></a>
+                                        width="8%" /></a>
                                     <a href="https://github.com/stmiller57" target="_blank">
                                         <img src="./assets/GitHub.svg" alt="GitHub Logo" className="img-responsive"
-                                            width="5%" /></a>
+                                            width="8%" /></a>
                                     <a href="https://www.linkedin.com/in/stephenmiller57/" target="_blank">
-                                        <img src="./assets/LinkedIn.svg" alt="LinkedIn Logo" className="img-responsive" width="5%" /></a></h6>
+                                        <img src="./assets/LinkedIn.svg" alt="LinkedIn Logo" className="img-responsive" width="8%" /></a></h6>
                             </div>
                         </div>
                     </div>
