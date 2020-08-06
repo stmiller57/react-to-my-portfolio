@@ -4,7 +4,7 @@
         "image": "assets/SaveShow.gif",
         "title": "TV Track",
         "body": "TV Track allows users to cut through the clutter found on most streaming services. The home page provides a list of popular shows and a simple search interface. Each show card includes an info button that takes users to a page dedicated to the selected show. Users can save a show from its dedicated page to their watchlist, provided they have created an account and are logged in.",
-        "technology": "MongoDB, Express, React, Node.JS, Bootstrap, The Movie Database.",
+        "technology": "MongoDB, Express, React, Node.JS, Bootstrap, The Movie Database",
         "link": "http://tv-track-2020.herokuapp.com/",
         "github": "https://github.com/EleanorBurgess0940/tracking_tv"
     },
