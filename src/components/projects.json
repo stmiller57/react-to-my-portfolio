@@ -1,21 +1,21 @@
 [
     {
         "id": 1,
+        "image": "assets/SaveShow.gif",
+        "title": "TV Track",
+        "body": "TV Track allows users to cut through the clutter found on most streaming services. The home page provides a list of popular shows and a simple search interface. Each show card includes an info button that takes users to a page dedicated to the selected show. Users can save a show from its dedicated page to their watchlist, provided they have created an account and are logged in.",
+        "technology": "MongoDB, Express, React, Node.JS, Bootstrap, The Movie Database.",
+        "link": "http://tv-track-2020.herokuapp.com/",
+        "github": "https://github.com/EleanorBurgess0940/tracking_tv"
+    },
+    {
+        "id": 2,
         "image": "assets/g-and-a header.png",
         "title": "Gluttons and Alcoholics",
         "body": "With people staying home during the COVID-19 pandemic, we wanted to design an application where users could search for meals by ingredient and dietary requirements. Each meal is paired with a random drink.",
         "technology": "UIkit CSS framework, JavaScript, jQuery, Edamam Recipe API, TheCocktailDB API",
         "link": "https://brianlevin.github.io/gluttons-and-alcoholics/",
         "github": "https://github.com/BrianLevin/gluttons-and-alcoholics"
-    },
-    {
-        "id": 2,
-        "image": "assets/HelpingHand2.gif",
-        "title": "Helping Hands",
-        "body": "This application, built by a four-person team, links prospective volunteers to organizations that need their help. Volunteers can sign up for access to the site, log in and look through opportunities. They can also claim opportunities that interest them.",
-        "technology": "Node.JS, Express, Handlebars, Sequelize and Bootstrap",
-        "link": "https://helping-hands-project-2.herokuapp.com/",
-        "github": "https://github.com/Bpeart90/project2"
     },
     {
         "id": 3,
