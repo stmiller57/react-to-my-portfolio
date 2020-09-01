@@ -8,7 +8,7 @@ function BioBox() {
                 <div className="card text-white mb-3" id="bio-card">
                     <div className="row no-gutters">
                         <div className="col-sm-4">
-                            <img className="card-img border border-dark rounded-circle" src="./assets/Profile.jpeg"
+                            <img className="card-img border border-dark rounded-circle" src="./assets/Profile.PNG"
                                 alt="Stephen Miller" />
                         </div>
                         <div className="col-sm-8">
