@@ -14,15 +14,10 @@ function BioBox() {
                         <div className="col-sm-8">
                             <div className="card-body">
                                 <h3 id="About" className="card-title text-center">About Me</h3>
-                                <p className="card-text">I'm a junior web developer who recently graduated from the Penn LPS coding bootcamp with a certificate in full-stack web development. I spent 20 years as a journalist,
-                                covering everything from the Philadelphia Phillies to college basketball to high
-                                school
-                            football.</p>
+                                <p className="card-text">I'm a junior web developer who graduated from the Penn LPS coding bootcamp with a certificate in full-stack web development (Aug. 2020). During my bootcamp, I developed a passion for front-end development and responsive design.</p>
+                                <p> Before diving into the tech world, I spent 20 years as a journalist. I've covered everything from the Philadelphia Phillies to college basketball to high school football and continue to write.</p>
                                 <p>I love to watch sports, read, listen to music and spend
-                                time
-                                with my wife and two boys. I somehow ended up a fan of the Philadelphia Eagles,
-                                New
-                            York Mets and Boston Celtics. Ask me if you want the whole story.</p>
+                                time with my wife and two boys. I somehow ended up a fan of the Philadelphia Eagles, New York Mets and Boston Celtics. Ask me if you want the whole story.</p>
                                 <h5 id="contact">Let's Connect!</h5>
                                 <h6 className="text-center">
                                     <br>
