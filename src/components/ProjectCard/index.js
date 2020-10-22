@@ -2,7 +2,6 @@ import React from "react";
 import "./style.css";
 
 function ProjectCard(props) {
-    console.log(props);
     return (
         <div className="card text-white">
             <img alt={props.title} src={props.image} className="img-responsive" width="100%" />
