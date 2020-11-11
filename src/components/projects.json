@@ -1,55 +1,55 @@
 [
-    {
-        "id": 1,
-        "image": "assets/SaveShow.gif",
-        "title": "TV Track",
-        "body": "TV Track allows users to cut through the clutter found on most streaming services. The home page provides a list of popular shows and a simple search interface. Each show card includes an info button that takes users to a page dedicated to the selected show. Users can save a show from its dedicated page to their watchlist, provided they have created an account and are logged in.",
-        "technology": "MongoDB, Express, React, Node.JS, Bootstrap, The Movie Database",
-        "link": "http://tv-track-2020.herokuapp.com/",
-        "github": "https://github.com/EleanorBurgess0940/tracking_tv"
-    },
-    {
-        "id": 2,
-        "image": "assets/g-and-a header.png",
-        "title": "Gluttons and Alcoholics",
-        "body": "With people staying home during the COVID-19 pandemic, we wanted to design an application where users could search for meals by ingredient and dietary requirements. Each meal is paired with a random drink.",
-        "technology": "UIkit CSS framework, JavaScript, jQuery, Edamam Recipe API, TheCocktailDB API",
-        "link": "https://brianlevin.github.io/gluttons-and-alcoholics/",
-        "github": "https://github.com/BrianLevin/gluttons-and-alcoholics"
-    },
-    {
-        "id": 3,
-        "image": "assets/CLI.gif",
-        "title": "Can't Top My Team",
-        "body": "It can be challenging to keep track of who is working on different projects. This team generator gives managers quick access to team members and their relevant information.",
-        "technology": "Node.JS",
-        "github": "https://github.com/stmiller57/cant-top-my-team"
-    },
-    {
-        "id": 4,
-        "image": "assets/Weather.gif",
-        "title": "What's the Weather",
-        "body": "This is a simple weather dashboard to search for current weather conditions and a five-day forecast by city using several OpenWeather APIs. Fields include the current day's temperature, humidity, wind speed and UV index. Below those, a 5-day forecast appears that includes the temperature and humidity.",
-        "technology": "Bootstrap, JavaScript and jQuery",
-        "link": "https://stmiller57.github.io/whats-the-weather",
-        "github": "https://github.com/stmiller57/whats-the-weather"
-    },
-    {
-        "id": 5,
-        "image": "assets/FitnessTracker.gif",
-        "title": "Workout Has noSQL",
-        "body": "Logging workouts allows users to track their progress over time. In this application, users can log both resistance and cardio workouts. Users can record the name, type, weight, sets, reps, and duration of strength exercises. They can also track the distance covered of cardio exercises.",
-        "technology": "Node, Express, MongoDB and Mongoose",
-        "link": "https://still-island-18467.herokuapp.com//",
-        "github": "https://github.com/stmiller57/workout-has-noSQL"
-    },
-    {
-        "id": 6,
-        "image": "assets/NoteTaker.gif",
-        "title": "Note These Words",
-        "body": "For people with a lot on their minds, writing notes is an excellent way to keep track of their thoughts. This application gives users a way to take notes throughout the day in their web browser.",
-        "technology": "Express, JSON",
-        "link": "https://blooming-fjord-50965.herokuapp.com/",
-        "github": "https://github.com/stmiller57/note-these-words"
-    }
+  {
+    "id": 1,
+    "image": "assets/SaveShow.gif",
+    "title": "TV Track",
+    "body": "TV Track allows users to cut through the clutter found on most streaming services. The home page provides a list of popular shows and a simple search interface. Each show card includes an info button that takes users to a page dedicated to the selected show. Users can save a show from its dedicated page to their watchlist, provided they have created an account and are logged in.",
+    "technology": "MongoDB, Express, React, Node.JS, Bootstrap, The Movie Database",
+    "link": "http://tv-track-2020.herokuapp.com/",
+    "github": "https://github.com/EleanorBurgess0940/tracking_tv"
+  },
+  {
+    "id": 2,
+    "image": "assets/g-and-a header.png",
+    "title": "Gluttons and Alcoholics",
+    "body": "With people staying home during the COVID-19 pandemic, we wanted to design an application where users could search for meals by ingredient and dietary requirements. Each meal is paired with a random drink.",
+    "technology": "UIkit CSS framework, JavaScript, jQuery, Edamam Recipe API, TheCocktailDB API",
+    "link": "https://brianlevin.github.io/gluttons-and-alcoholics/",
+    "github": "https://github.com/BrianLevin/gluttons-and-alcoholics"
+  },
+  {
+    "id": 3,
+    "image": "assets/CLI.gif",
+    "title": "Can't Top My Team",
+    "body": "It can be challenging to keep track of who is working on different projects. This team generator gives managers quick access to team members and their relevant information.",
+    "technology": "Node.JS",
+    "github": "https://github.com/stmiller57/cant-top-my-team"
+  },
+  {
+    "id": 4,
+    "image": "assets/Weather.gif",
+    "title": "What's the Weather",
+    "body": "This is a simple weather dashboard to search for current weather conditions and a five-day forecast by city using several OpenWeather APIs. Fields include the current day's temperature, humidity, wind speed and UV index. Below those, a 5-day forecast appears that includes the temperature and humidity.",
+    "technology": "Bootstrap, JavaScript and jQuery",
+    "link": "https://stmiller57.github.io/whats-the-weather",
+    "github": "https://github.com/stmiller57/whats-the-weather"
+  },
+  {
+    "id": 5,
+    "image": "assets/HelpingHand2.gif",
+    "title": "Helping Hands",
+    "body": "For users who want to volunteer in their communities but don’t know where to start, this website provides listings of opportunities. Users can log in and claim opportunities that interest them. Organizations can also add available opportunities. ",
+    "technology": "Node, Express, Handlebars, mySQL",
+    "link": "https://helping-hands-project-2.herokuapp.com/",
+    "github": "https://github.com/Bpeart90/HelpingHands"
+  },
+  {
+    "id": 6,
+    "image": "assets/NoteTaker.gif",
+    "title": "Note These Words",
+    "body": "For people with a lot on their minds, writing notes is an excellent way to keep track of their thoughts. This application gives users a way to take notes throughout the day in their web browser.",
+    "technology": "Express, JSON",
+    "link": "https://blooming-fjord-50965.herokuapp.com/",
+    "github": "https://github.com/stmiller57/note-these-words"
+  }
 ]
